@@ -10,8 +10,8 @@
 
 
 ### Task 0 reflections:
-> 1. Udacity's How to use Git and GitHub course is a really detailed, interactive and fun experience. Great visual explanation of what's a branch and commit. How to create repository on Github. Really liked feedback on Git from other developer and engineers.
-> 2.I have came across *try.github.io* in the past. A nice, visual introduction in to the world of Git.
+> 1. Udacity's How to use Git and GitHub course is a really detailed, interactive and fun experience. Great visual explanation of what's a branch and commit. How to create repository on Github. Really liked feedback on Git from other developers and engineers. Helped me to fill some gaps here and there.
+> 2. I have came across *try.github.io* in the past. A nice, visual introduction in to the world of Git.
 ---
 
 ## Test Task 1
