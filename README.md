@@ -26,5 +26,5 @@
 
 ### Task 1 reflections:
 > Great introduction into the command line. The new thing for me was the globbing pattern with the curly braces (e.g. *{html,css}). Will definitely use it.
-> ![task1](/tasks/task_1/screen1.png)
+> ![task1](/tasks/task_1/Screen1.png)
 ---
