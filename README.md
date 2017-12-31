@@ -17,8 +17,14 @@
 
 ## Test Task 1
 
-1. [ ] [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+1. [x] [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 2. [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 3. [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
-4. [ ] [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+4. [x] [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 5. [ ] [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
+
+### Task 1 reflections:
+> Great introduction into the command line. The new thing for me was the globbing pattern with the curly braces (e.g. *{html,css}). Will definitely use it.
+> ![task1](/tasks/task_1/screen1.png)
+---
