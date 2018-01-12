@@ -20,7 +20,7 @@
 
 1. [x] [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 2. [x] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
-3. [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+3. [x] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 4. [x] [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 5. [x] [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
@@ -28,6 +28,8 @@
 ### Task 1 reflections:
 > 1. Great introduction into the command line. The new thing for me was the globbing pattern with the curly braces (e.g. *{html,css}). Will definitely use it.
 > 2. Really liked course on Configuring Linux Web Servers. Setting up Apache HTTP Server with mod_wsgi and PostgreSQL was all new experience for me. Vagrant is an awesome tool. It's surprisingly easy to get up and running Linux server on your own machine. Definitely will add Vagrant in my tool box.
+> 3. A very interesting in-depth course on networks. A lot of new information for me, such as protocol layers, different commands such as, `nc` or `traceroute`. It is pretty amazing how much there's protocols, 'hops', routers, etc. could be involved just between two endpoints. A lot of information in this course that will take some time to digest.
 > ![task1](/tasks/task_1/Screen1.png)
 > ![task1](/tasks/task_1/Screen2.png)
+> ![task1](/tasks/task_1/Screen3.png)
 ---
