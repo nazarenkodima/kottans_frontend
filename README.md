@@ -33,3 +33,9 @@
 > ![task1](/tasks/task_1/Screen2.png)
 > ![task1](/tasks/task_1/Screen3.png)
 ---
+
+## Test Task 2
+
+0. [ ] [What is Version Control](https://classroom.udacity.com/courses/ud123/)
+
+1. [ ] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
