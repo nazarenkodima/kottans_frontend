@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Useful Git Commands</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <dl>
+        <dt>$ git log --oneline</dt>
+        <dd>
+            <pre>
+                This command:
+
+                lists one commit per line
+                shows the first 7 characters of the commit's SHA
+                shows the commit's message
+            </pre>
+        </dd>
+
+        <dt>$ git log --stat</dt>
+        <dd>
+            <pre>
+                This command:
+
+                displays the file(s) that have been modified
+                displays the number of lines that have been added/removed
+                displays a summary line with the total number of modified files and lines that have been added/removed
+            </pre>
+        </dd>
+
+        <dt>$ git log -p</dt>
+        <dd>
+            <pre>
+                This command adds the following to the default output:
+
+                displays the files that have been modified
+                displays the location of the lines that have been added/removed
+                displays the actual changes that have been made
+            </pre>
+        </dd>
+
+        <dt>$ git show</dt>
+        <dd>
+            <pre>
+                The git show command will show only one commit.
+
+                However, git show can be combined with most of the other flags we've looked at:
+                --stat - to show the how many files were changed and the number of lines that were added/removed
+                -p or --patch - this the default, but if --stat is used, the patch won't display, so pass -p to add it again
+                -w - to ignore changes to whitespace
+            </pre>
+        </dd>
+    </dl>
+</body>
+</html>
