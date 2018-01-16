@@ -36,6 +36,11 @@
 
 ## Test Task 2
 
-0. [ ] [What is Version Control](https://classroom.udacity.com/courses/ud123/)
+0. [x] [What is Version Control](https://classroom.udacity.com/courses/ud123/)
 
 1. [ ] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+
+
+### Task 2 reflections:
+> 1. In the What is Version Control course using Relative Commit References was really new to me. It's a cool feature and I would definitely use in the future. The more I use Git the more I understand what an powerful tool for a developer it is.
+> ![task2](/tasks/task_2/Screen1.png)
