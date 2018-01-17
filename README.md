@@ -46,3 +46,10 @@
 > 2. Collaborating with others could be really challenging for someone who is new to Git. Nevertheless, it's definitely worth the effort. I'll definitely use most of the commands from the course in the future. Finally, I got a good clarification between `pull` and `fetch` commands. After going through all of Udacity's courses on Git I am really surprised what a versatile tool Git is. It might have a steeper learning curve, but it's worth it.
 > ![task2](/tasks/task_2/Screen1.png)
 > ![task2](/tasks/task_2/Screen2.png)
+---
+
+## Test Task 3
+
+0. [ ] [Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+
+### Task 3 reflections:
