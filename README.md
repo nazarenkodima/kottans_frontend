@@ -38,9 +38,11 @@
 
 0. [x] [What is Version Control](https://classroom.udacity.com/courses/ud123/)
 
-1. [ ] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+1. [x] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 
 
 ### Task 2 reflections:
 > 1. In the What is Version Control course using Relative Commit References was really new to me. It's a cool feature and I would definitely use in the future. The more I use Git the more I understand what an powerful tool for a developer it is.
+> 2. Collaborating with others could be really challenging for someone who is new to Git. Nevertheless, it's definitely worth the effort. I'll definitely use most of the commands from the course in the future. Finally, I got a good clarification between `pull` and `fetch` commands. After going through all of Udacity's courses on Git I am really surprised what a versatile tool Git is. It might have a steeper learning curve, but it's worth it.
 > ![task2](/tasks/task_2/Screen1.png)
+> ![task2](/tasks/task_2/Screen2.png)
