@@ -54,4 +54,9 @@
 
 ### Task 3 reflections:
 > 0. Everything in this course is pretty straightforward, the foundation of HTML & CSS. Really easy stuff.
-> ![task3][/tasks/task_3/Screen1.png]
+> ![task3](/tasks/task_3/Screen1.png)
+---
+
+## Test Task 4
+
+0. [ ] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
