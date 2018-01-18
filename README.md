@@ -50,6 +50,8 @@
 
 ## Test Task 3
 
-0. [ ] [Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+0. [x] [Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
 ### Task 3 reflections:
+> 0. Everything in this course is pretty straightforward, the foundation of HTML & CSS. Really easy stuff.
+> ![task3][/tasks/task_3/Screen1.png]
