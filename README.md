@@ -59,4 +59,8 @@
 
 ## Test Task 4
 
-0. [ ] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+0. [x] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+
+### Task 4 reflections:
+> 0. Great explanation on how media queries works. I liked the suggestion regarding what's the best way to choose breakpoints.
+> ![task4](/tasks/task_3/Screen1.png)
